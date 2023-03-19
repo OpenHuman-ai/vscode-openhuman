@@ -1,5 +1,5 @@
-# getting-started-sample
+# VSCode OpenHuman Extension
 
-This sample shows how to provide a walkthrough to the Getting Started section in vscode's welcome page.
+VSCode OpenHuman Extension for OpenHuman.ai
 
 ![Sample walkthrough](./media/sample.png)
