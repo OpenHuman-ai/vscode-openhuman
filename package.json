@@ -1,9 +1,9 @@
 {
 	"name": "openhuman",
-	"displayName": "openhuman",
+	"displayName": "OpenHuman.ai",
 	"description": "Example extension contribution to Getting Started page",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "openhuman",
 	"private": true,
 	"license": "MIT",
 	"repository": "https://github.com/OpenHuman-ai/vscode-openhuman",
@@ -17,7 +17,6 @@
 		"onCommand:openhuman.runCommand",
 		"onCommand:openhuman.changeSetting",
 		"onCommand:openhuman.setContext",
-		"onCommand:openhuman.sayHello",
 		"onCommand:openhuman.viewSources"
 	],
 	"main": "./out/extension.js",
